@@ -16,7 +16,7 @@ To use born_dummy, follow these simple steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using Git.
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/isnotsafety/born_dummy
 
 1. **Navigate to the Project Directory**: Move into the born_dummy directory.
    ```bash
