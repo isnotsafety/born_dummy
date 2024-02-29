@@ -20,7 +20,20 @@ To use born_dummy, follow these simple steps:
 
 1. **Navigate to the Project Directory**: Move into the born_dummy directory.
    ```bash
-   cd born_dummy.
+   cd born_dummy
+   ```
+
+   Using single operator
+   ```bash
    node index.js add 5 3
+   node index.js subtract 12 5
+   node index.js multiply 65 3
+   node index.js divide 67 34
+   ```
+
+   Using multiple operator
+   ```bash
+   node index.js divide 34 24 subtract 6 42 multiply 13 3 add 2 3
+   ```
 
 ## Thanks for pay attention
